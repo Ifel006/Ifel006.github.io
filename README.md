@@ -1,2 +1,2 @@
-# Ifel006.github.io
-My first site
+# Daud Ahriev
+My homeworks
