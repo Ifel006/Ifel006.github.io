@@ -1,2 +1,2 @@
 # Daud Ahriev
-My homeworks
+Мои домашние задания
