@@ -1,2 +1,2 @@
-#Daud Ahriev
+# Daud Ahriev
 My homeworks
